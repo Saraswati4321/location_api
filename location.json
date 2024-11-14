@@ -1,0 +1,117 @@
+{
+   "data":
+     [
+      {
+        "id":1,
+         "place": "Sambalpur"
+     },
+
+     {
+        "id":2,
+         "place": "Anithapali"
+     },
+     
+      {
+        "id":3,
+         "place": "Bareipali"
+     },
+
+     {
+        "id":4,
+         "place": "Burla"
+     },
+      
+     {
+        "id":5,
+         "place": "Budharaja"
+     },
+    
+     {
+        "id":6,
+         "place": "Danipali"
+     },
+
+     {
+        "id":7,
+         "place": "Dalaipara"
+     },
+
+     {
+        "id":8,
+         "place": "Dhanakauda"
+     },
+
+     {
+        "id":9,
+         "place": "Dhanupali"
+     },
+     
+     {
+        "id":10,
+         "place": "Durgapali"
+     },
+
+     {
+        "id":11,
+         "place": "Golebazar"
+     },
+    
+     {
+        "id":12,
+         "place": "Govindtola"
+     },
+
+     {
+        "id":13,
+         "place": "Hirakud"
+     },
+     
+     {
+        "id":14,
+         "place": "Khetrajpur"
+     },
+
+     {
+        "id":15,
+         "place": "Kuchinda"
+     },
+     
+     {
+        "id":16,
+         "place": "Majhipali"
+     },
+
+     {
+        "id":17,
+         "place": "Nandapada"
+     },
+
+     {
+        "id":18,
+         "place": "Remed"
+     },
+
+     {
+        "id":19,
+         "place": "Rengali"
+     },
+
+     {
+        "id":20,
+         "place": "Sakhipara"
+     },
+
+     {
+        "id":21,
+         "place": "S.R.I.T Colony"
+     },
+
+     {
+        "id":22,
+         "place": "Tangarpali"
+     }
+
+
+]
+      
+    
